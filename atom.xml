@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-07T19:23:17.163Z</updated>
+  <updated>2024-07-07T19:32:56.604Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/posts/7a776471.html"/>
     <id>http://example.com/posts/7a776471.html</id>
     <published>2024-07-04T17:34:42.000Z</published>
-    <updated>2024-07-07T19:23:17.163Z</updated>
+    <updated>2024-07-07T19:32:56.604Z</updated>
     
-    <content type="html"><![CDATA[<div class="note blue icon-padding modern"><i class="note-icon fas fa-bullhorn"></i><p>你们好这是我的第一篇文章我以后会在这里持续更新这个网站的创造，没意思可以鼠标移至左下角听歌，本网站可能运行比较慢。</p></div>]]></content>
+    <content type="html"><![CDATA[<div class="note blue icon-padding modern"><i class="note-icon fas fa-bullhorn"></i><p>你们好这是我的第一篇文章我以后会在这里持续更新这个网站的创造，没意思可以鼠标移至左下角听歌，本网站可能运行比较慢。</p></div><div class="tip done faa-horizontal"><p>你好</p></div>]]></content>
     
     
       

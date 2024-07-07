@@ -1,0 +1,11 @@
+/*这里放外框*/
+body{
+    cursor: url(https://cdn.custom-cursor.com/db/cursor/32/Watermelon_Arrow_Cursor.png) , default !important
+    }
+    /*这里放内框*/
+    a,img,button{
+        cursor: url(https://cdn.custom-cursor.com/db/pointer/32/Watermelon_Pointer.png)   , pointer !important
+    }
+    
+    
+    
