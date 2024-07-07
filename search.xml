@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>我的第一篇文章</title>
+      <link href="/posts/7a776471.html"/>
+      <url>/posts/7a776471.html</url>
+      
+        <content type="html"><![CDATA[<div class="note blue icon-padding modern"><i class="note-icon fas fa-bullhorn"></i><p>你们好这是我的第一篇文章我以后会在这里持续更新这个网站的创造，没意思可以鼠标移至左下角听歌，本网站可能运行比较慢。</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 建站第一篇文章 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
